@@ -1,5 +1,12 @@
 package org.example;
 
+//Ejercicio 1: Palíndromos
+//        Escribe una función que determine si una palabra o frase es un palíndromo. Un palíndromo es una palabra o frase que se lee igual de izquierda a derecha que de derecha a izquierda, ignorando espacios, mayúsculas y signos de puntuación.
+//
+//        Instrucciones
+//        La función debe recibir una cadena como parámetro.
+//        El programa debe eliminar los espacios y convertir la cadena a minúsculas para realizar la comparación.
+//        Debe devolver true si es un palíndromo y false si no lo es.
 
 import java.util.Scanner;
 
