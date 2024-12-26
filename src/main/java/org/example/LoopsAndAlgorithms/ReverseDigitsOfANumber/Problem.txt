@@ -1,0 +1,16 @@
+Next Problem
+Category: Loops and Algorithms
+Difficulty: Moderate
+
+Exercise 7: Reverse Digits of a Number
+
+Write a program that reverses the digits of a given positive integer. For example:
+
+Input: 12345
+Output: 54321
+
+    Instructions
+    1. Prompt the user to enter a positive integer.
+    2. Create a method to reverse the digits of the number using a loop.
+    3. Return and print the reversed number.
+    4. Make sure the program works for numbers with different lengths.

@@ -1,0 +1,13 @@
+Next Problem
+
+Category: Loops and Arrays
+Difficulty: Moderate
+
+Exercise 7: Longest Sequence of Positive Numbers in an Array
+
+    Write a program that:
+
+    1. Accepts an array of integers from the user
+    2. Identifies the longest sequence of positive numbers in the array.
+    3. Outputs the length and the sequence itself.
+    4. This problem will help you strengthen your skills in arrays and loops while working with sequences!
