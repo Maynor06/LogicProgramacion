@@ -1,0 +1,13 @@
+Next Problem
+Category: Loops and Algorithms
+Difficulty: Moderate
+
+Exercise 6: Fibonacci Sequence Checker
+
+Write a program to check if a number entered by the user is part of the Fibonacci sequence.
+    Instructions:
+
+    1. Create a method to generate Fibonacci numbers up to a given limit.
+    2. Check if the user input matches any of the Fibonacci numbers.
+    3. Output whether the number belongs to the Fibonacci sequence or not.
+    4. This will help strengthen your understanding of loops and mathematical sequences!
