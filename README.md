@@ -1,4 +1,5 @@
-# 💻 Logic Programming with Java  
+<h1 align ='center' > 💻 Logic Programming with Java  </h1>
+
 
 Welcome to my **Logic Programming** repository!  
 
@@ -6,7 +7,7 @@ This is where I store my **daily exercises** written in **Java**, aimed at impro
 
 ---
 
-## 🚀 **Purpose**  
+<h2 align ='center' >🚀 Purpose </h2>
 
 Programming logic is a critical skill for any developer. Through these exercises, I:  
 - Practice **daily problem-solving**.  
@@ -15,14 +16,7 @@ Programming logic is a critical skill for any developer. Through these exercises
 
 ---
 
-## 🛠️ **Technologies Used**  
-
-- **Language:** Java  
-- **IDE:** IntelliJ IDEA  
-
----
-
-## 🤝 **Contributions**  
+<h2 align ='center' > 🤝 Contributions </h2>
 
 Feel free to:  
 - Suggest new exercises or improvements by opening an **issue**.  
@@ -30,14 +24,14 @@ Feel free to:
 
 ---
 
-## 🌟 **Support**  
+<h2 align ='center' > 🌟 Support </h2>
 
 If you find this repository helpful, don’t forget to give it a **⭐**!  
 Your support motivates me to keep learning and sharing.  
 
 ---
 
-## 📬 **Contact**  
+<h2 align ='center' >📬 Contact </h2>
 
 Got questions or want to discuss programming logic?  
 - **LinkedIn:** [Maynor Semeyá](https://www.linkedin.com/in/maynor-semeya/)  
@@ -45,4 +39,5 @@ Got questions or want to discuss programming logic?
 
 ---
 
-Thanks for visiting! Keep coding and improving every day! 😊  
+<h2 align ='center' > Thanks for visiting! Keep coding and improving every day! 😊 </h2>
+
