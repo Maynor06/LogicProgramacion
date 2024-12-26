@@ -8,14 +8,15 @@ public class SolutionMaynoJava {
 
     public static Integer reverseDigits(int num) {
 
-        String digits = "";
-        int testNumber = num;
+        int reversed = 0;
+        int originalNum = num;
 
-        while (testNumber > 0) {
-             digits += String.valueOf(testNumber % 10);
-             testNumber /= 10;
+        while (originalNum > 0) {
+            reversed = reversed * 10 + originalNum % 10;
+            originalNum /= 10;
+
         }
-        return  Integer.parseInt(digits);
+        return  reversed;
     }
 
     public static Scanner scanner = new Scanner(System.in);
