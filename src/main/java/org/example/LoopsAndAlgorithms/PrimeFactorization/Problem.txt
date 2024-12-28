@@ -1,0 +1,12 @@
+Category: Loops and Algorithms
+Difficulty: Moderate
+
+Exercise 8: Prime Factorization
+Write a program to find all the prime factors of a number entered by the user.
+Prime factors are the prime numbers that multiply together to create the original number. For example, the prime factors of 28 are 2,2,7.
+
+    Instructions:
+    1. Create a method to determine if a number is prime.
+    2. Create another method to find all the prime factors of the given number.
+    3. Use a loop to divide the number by its prime factors until the number becomes
+    4. Output the prime factors.

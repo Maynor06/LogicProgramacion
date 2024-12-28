@@ -1,0 +1,14 @@
+Next Exercise: Palindrome Number
+Category: Loops and Algorithms
+Difficulty: Moderate
+
+Problem Description: A number is called a palindrome if it reads the same forward and backward.
+For example, 121 is a palindrome, but 123 is not.
+
+  Instructions:
+
+    1. Write a program to check if a number entered by the user is a palindrome.
+    2. You must use a method to reverse the digits of the number.
+    3. Compare the reversed number with the original number to determine if it's a palindrome.
+    4. Handle both positive and negative numbers. A negative number cannot be a palindrome.
+
