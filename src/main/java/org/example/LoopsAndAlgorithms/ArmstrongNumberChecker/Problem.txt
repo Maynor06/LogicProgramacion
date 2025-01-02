@@ -1,0 +1,16 @@
+Problem description
+
+An Armstrong number (or Narcissistic number) is a number that is equal to the sum of
+its a digits raised to the power od the number of digits.
+
+for example:
+
+153 = 1
+
+Instructions:
+
+    1. Write a program that checks if a number entered by the user is an Armstrong number.
+    2. Create a method to calculate the sum of the digits raised to the power of the number of digits.
+    3. Your program should handle both small and large numbers.
+    4. Output whether the input number is an Armstrong number or not.
+
