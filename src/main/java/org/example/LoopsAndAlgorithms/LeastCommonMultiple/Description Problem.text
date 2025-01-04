@@ -1,0 +1,23 @@
+Problem Statement
+
+Write a program that calculates the Least Common Multiple (LCM) of two positive integers.
+The LCM of two numbers is the smallest positive integer that is divisible by both numbers.
+
+Requirements
+
+        1. Use the relationship between GCD and LCM:
+
+            lcm(a, b) = (a * b) / gcd(a, b)
+            Ensure you handle integer overflow when multiplying a and b.
+
+        2. Implement a method findLCM(int a, int b) that:
+
+            Calls your gcd method to calculate the GCD.
+            Uses the GCD to find the LCM.
+
+        3. In the main method:
+
+            Prompt the user to enter two positive integers.
+            Call the findLCM method and display the result.
+            Handle invalid inputs gracefully.
+
