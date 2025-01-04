@@ -1,0 +1,21 @@
+Problem statement
+
+Write a program that takes two positive integers as input and calculates their Greatest Common Divisor (GCD).
+The GCD of two numbers is the largest number that divides both of them without leaving a remainder.
+
+
+    Requirements
+Use the Euclidean Algorithm to calculate the GCD:
+
+If a and b are two numbers, gcd(a, b) = gcd(b, a % b) until b == 0. At that point, a is the GCD.
+Implement the logic in a separate method called findGCD(int a, int b).
+
+In the main method:
+
+    1. Prompt the user to enter two positive integers.
+    2. Call the findGCD method and print the result.
+Handle invalid input (e.g., negative numbers or zero) by displaying a message and exiting the program.
+
+
+
+
