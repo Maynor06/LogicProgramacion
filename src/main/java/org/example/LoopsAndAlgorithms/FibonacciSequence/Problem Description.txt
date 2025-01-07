@@ -1,0 +1,10 @@
+Exercise: Fibonacci Sequence Generator
+Write a program to generate the first n numbers of the Fibonacci sequence.
+The Fibonacci sequence starts with 0 and 1, and each subsequent number is the sum of the previous two.
+
+Requirements
+
+    1. Accept an integer n (greater than 0) as input from the user.
+    2. Generate and display the first n Fibonacci numbers.
+    3. Handle invalid inputs gracefully, such as negative numbers or zero.
+    4. Use iteration instead of recursion for better performance.
