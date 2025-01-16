@@ -1,0 +1,10 @@
+Write a program that checks whether a given string is a palindrome. A palindrome is a word, phrase,
+or sequence of characters that reads the same backward as forward
+(ignoring spaces, punctuation, and case sensitivity).
+
+Requirements
+    1. Accept a string input from the user.
+    2. Ignore spaces, punctuation, and capitalization.
+    3. Check if the cleaned string is a palindrome.
+    4.Print whether the string is a palindrome or not.
+
