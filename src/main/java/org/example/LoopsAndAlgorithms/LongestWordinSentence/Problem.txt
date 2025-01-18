@@ -1,0 +1,13 @@
+Exercise: Find the Longest Word in a Sentence
+
+Write a Java program that:
+
+    1. Takes a sentence as input from the user.
+    2. Splits the sentence into individual words.
+    3. Finds and prints the longest word in the sentence.
+    4. If there are multiple words with the same maximum length, print all of them.
+
+    Requirements:
+        Ignore punctuation while finding the longest word.
+        Handle edge cases, such as empty input or input with only spaces.
+
