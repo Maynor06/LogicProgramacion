@@ -1,0 +1,11 @@
+Exercise: Calculate Factorial Using Recursion
+
+Write a Java program to calculate the factorial of a given number using recursion.
+
+Instructions:
+    1. Prompt the user to enter a positive integer.
+    2. Implement a recursive method to calculate the factorial of the given number.
+    3. Validate the input to ensure it's a positive integer.
+    4. Print the calculated factorial.
+
+
