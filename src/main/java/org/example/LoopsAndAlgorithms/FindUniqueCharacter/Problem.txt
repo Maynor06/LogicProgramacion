@@ -1,0 +1,15 @@
+Exercise: Find the First Non-Repeating Character
+Write a Java program to find the first non-repeating character in a given string.
+If all characters are repeated, return a message saying there are no unique characters.
+
+
+------------------------> Requirements <------------------------
+
+    1. Ignore case sensitivity when determining whether a character repeats.
+    2. Handle strings with spaces, numbers, and special characters.
+    3. The input can include both uppercase and lowercase letters.
+
+------------------------> Expected Functionality <------------------------
+
+    1. If the input is "swiss", the output should be 'w' (the first non-repeating character).
+    2. If the input is "aabbcc", the output should be "No unique characters found.".
