@@ -1,0 +1,21 @@
+Exercise: Matrix Transposition
+Write a Java program to calculate the transpose of a matrix.
+
+What is a Transpose?
+The transpose of a matrix is obtained by flipping rows into columns and columns into rows. For example:
+
+Input Matrix:
+    1  2  3
+    4  5  6
+    7  8  9
+
+Transpose of the Matrix
+    1  4  7
+    2  5  8
+    3  6  9
+
+Requirements:
+    1. Prompt the user to input the dimensions of the matrix (rows and columns).
+    2. Allow the user to enter the elements of the matrix.
+    3. Calculate the transpose and display the resulting matrix.
+
